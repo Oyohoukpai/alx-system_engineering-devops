@@ -1,0 +1,2 @@
+#!/bin/bassh
+find -empty | rev | cut -d/ -f1 | rev
